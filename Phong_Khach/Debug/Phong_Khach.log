@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1271,25): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1271,32): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1271,39): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1283,26): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1283,32): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Phong_Khach\Source.cpp(1283,38): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+  Phong_Khach.vcxproj -> C:\Users\MSI\Documents\Bai_Tap_Lon\Do_Hoa_May_Tinh\Phong_Khach\Debug\Phong_Khach.exe
